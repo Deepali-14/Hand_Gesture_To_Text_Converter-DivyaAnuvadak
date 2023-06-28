@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>car.9cec4ab7-c1d1-11ed-aac2-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\car.9cec4ab7-c1d1-11ed-aac2-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>50</ymin>
+			<xmax>617</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

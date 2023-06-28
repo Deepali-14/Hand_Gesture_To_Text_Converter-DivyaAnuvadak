@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>bicycle.4a878be3-c7b0-11ed-87df-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\bicycle.4a878be3-c7b0-11ed-87df-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>238</ymin>
+			<xmax>616</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

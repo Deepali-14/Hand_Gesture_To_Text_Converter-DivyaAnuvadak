@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>peak.7f8ff9b2-c81f-11ed-9458-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\peak.7f8ff9b2-c81f-11ed-9458-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>104</ymin>
+			<xmax>317</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

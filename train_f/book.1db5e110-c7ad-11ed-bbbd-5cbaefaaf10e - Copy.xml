@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>book.1db5e110-c7ad-11ed-bbbd-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\book.1db5e110-c7ad-11ed-bbbd-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>264</ymin>
+			<xmax>505</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

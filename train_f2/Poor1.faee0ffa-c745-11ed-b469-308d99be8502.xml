@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Poor1.faee0ffa-c745-11ed-b469-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Poor1.faee0ffa-c745-11ed-b469-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>27</ymin>
+			<xmax>217</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

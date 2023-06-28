@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Enter.b21061b4-c5a9-11ed-a3a3-308d99be8502 - Copy.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Enter.b21061b4-c5a9-11ed-a3a3-308d99be8502 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>266</ymin>
+			<xmax>290</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

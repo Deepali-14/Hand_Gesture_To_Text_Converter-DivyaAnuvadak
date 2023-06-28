@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>lion.8a640c14-c4f5-11ed-b45f-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\lion.8a640c14-c4f5-11ed-b45f-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>155</ymin>
+			<xmax>613</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>profit.8c5777ca-c8f9-11ed-8c03-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\profit.8c5777ca-c8f9-11ed-8c03-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>profit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>156</ymin>
+			<xmax>446</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>clever.2a27ac43-c1d3-11ed-a32b-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\clever.2a27ac43-c1d3-11ed-a32b-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clever</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>307</ymin>
+			<xmax>487</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

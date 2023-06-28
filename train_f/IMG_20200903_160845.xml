@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>IMG_20200903_160845.jpg</filename>
+	<path>C:\Users\HP-840\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\IMG_20200903_160845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2467</width>
+		<height>1479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>37</ymin>
+			<xmax>2422</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+</annotation>

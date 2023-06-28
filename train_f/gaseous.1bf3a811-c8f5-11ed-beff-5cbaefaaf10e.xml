@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>gaseous.1bf3a811-c8f5-11ed-beff-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\gaseous.1bf3a811-c8f5-11ed-beff-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gaseous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>248</ymin>
+			<xmax>553</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

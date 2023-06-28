@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>lightening.bee34119-c8d7-11ed-9eef-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\lightening.bee34119-c8d7-11ed-9eef-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lightening</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>132</ymin>
+			<xmax>603</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

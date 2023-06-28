@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Stand.2867c7dc-c1c0-11ed-81fe-308d99be8502 - Copy.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Stand.2867c7dc-c1c0-11ed-81fe-308d99be8502 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>39</ymin>
+			<xmax>486</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

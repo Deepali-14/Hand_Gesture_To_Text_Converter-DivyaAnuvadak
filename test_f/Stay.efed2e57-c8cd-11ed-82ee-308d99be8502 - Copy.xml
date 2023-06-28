@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Stay.efed2e57-c8cd-11ed-82ee-308d99be8502 - Copy.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Stay.efed2e57-c8cd-11ed-82ee-308d99be8502 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>240</ymin>
+			<xmax>622</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

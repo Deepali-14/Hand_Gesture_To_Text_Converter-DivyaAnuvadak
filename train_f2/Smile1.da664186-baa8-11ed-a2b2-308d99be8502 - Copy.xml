@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Smile1.da664186-baa8-11ed-a2b2-308d99be8502 - Copy.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Smile1.da664186-baa8-11ed-a2b2-308d99be8502 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>124</ymin>
+			<xmax>450</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>alergy.1d67db32-c81e-11ed-8ae6-5cbaefaaf10e - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\train\alergy.1d67db32-c81e-11ed-8ae6-5cbaefaaf10e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>allergy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>229</ymin>
+			<xmax>478</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

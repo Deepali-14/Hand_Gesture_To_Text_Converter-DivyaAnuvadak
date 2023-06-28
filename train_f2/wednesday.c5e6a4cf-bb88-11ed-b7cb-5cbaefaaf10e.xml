@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>wednesday.c5e6a4cf-bb88-11ed-b7cb-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\train\wednesday.c5e6a4cf-bb88-11ed-b7cb-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wednesday</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>273</ymin>
+			<xmax>438</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Confused.d3c95c85-c99d-11ed-9847-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\train\Confused.d3c95c85-c99d-11ed-9847-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>192</ymin>
+			<xmax>574</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

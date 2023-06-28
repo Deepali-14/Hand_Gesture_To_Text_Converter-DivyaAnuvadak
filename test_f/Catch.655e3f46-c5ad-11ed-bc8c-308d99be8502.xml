@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Catch.655e3f46-c5ad-11ed-bc8c-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\test\Catch.655e3f46-c5ad-11ed-bc8c-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>catch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>246</ymin>
+			<xmax>640</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

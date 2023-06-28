@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>wednesday.e2e283fe-bb88-11ed-9a3b-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\test1\wednesday.e2e283fe-bb88-11ed-9a3b-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wednesday</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>269</ymin>
+			<xmax>533</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Catch1.d9671866-c5ad-11ed-a026-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\train\Catch1.d9671866-c5ad-11ed-a026-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>catch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>274</ymin>
+			<xmax>369</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

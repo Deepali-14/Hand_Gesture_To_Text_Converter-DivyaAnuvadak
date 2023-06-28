@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>guilty.16593d1b-c816-11ed-8d02-5cbaefaaf10e - Copy (2).jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\guilty.16593d1b-c816-11ed-8d02-5cbaefaaf10e - Copy (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guilty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>297</ymin>
+			<xmax>370</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

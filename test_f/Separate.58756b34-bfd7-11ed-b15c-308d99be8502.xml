@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Separate.58756b34-bfd7-11ed-b15c-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\test\Separate.58756b34-bfd7-11ed-b15c-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>separate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>293</ymin>
+			<xmax>640</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

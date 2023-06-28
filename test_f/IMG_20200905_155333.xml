@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>IMG_20200905_155333.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\test1\IMG_20200905_155333.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2547</width>
+		<height>1575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>442</ymin>
+			<xmax>2169</xmax>
+			<ymax>1516</ymax>
+		</bndbox>
+	</object>
+</annotation>

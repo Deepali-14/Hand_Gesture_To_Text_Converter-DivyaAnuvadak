@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>Pride.b58252a9-c893-11ed-a3ef-308d99be8502 - Copy.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\test1\Pride.b58252a9-c893-11ed-a3ef-308d99be8502 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proud</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>114</ymin>
+			<xmax>389</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

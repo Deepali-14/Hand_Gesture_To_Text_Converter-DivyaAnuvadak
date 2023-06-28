@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>headphone.88446fc4-c8f8-11ed-bf73-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\test1\headphone.88446fc4-c8f8-11ed-bf73-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>87</ymin>
+			<xmax>632</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

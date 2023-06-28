@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200903_153445.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\train\IMG_20200903_153445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2319</width>
+		<height>1305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>190</ymin>
+			<xmax>1819</xmax>
+			<ymax>1290</ymax>
+		</bndbox>
+	</object>
+</annotation>

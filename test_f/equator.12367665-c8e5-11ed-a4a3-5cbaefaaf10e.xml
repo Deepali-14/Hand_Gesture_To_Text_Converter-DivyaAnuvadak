@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test1</folder>
+	<filename>equator.12367665-c8e5-11ed-a4a3-5cbaefaaf10e.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\test1\equator.12367665-c8e5-11ed-a4a3-5cbaefaaf10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>equator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>58</ymin>
+			<xmax>593</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

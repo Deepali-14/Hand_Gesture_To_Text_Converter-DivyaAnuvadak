@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Slippers.cc7e1a58-c81d-11ed-860b-308d99be8502.jpg</filename>
+	<path>C:\Users\dell\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\train\Slippers.cc7e1a58-c81d-11ed-860b-308d99be8502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slippers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>192</ymin>
+			<xmax>441</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
