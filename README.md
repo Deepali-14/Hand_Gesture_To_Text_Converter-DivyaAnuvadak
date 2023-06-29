@@ -37,6 +37,13 @@ why not to extend it to specially-abled!”
 7. Converting the word into text and displaying it on the screen.
 
 
+# Dependencies
+1. cv2
+2. os
+3. time
+4. uuid
+
+   
 # Technologies Used
 1. Tensorflow
 2. Python
@@ -49,18 +56,20 @@ why not to extend it to specially-abled!”
 
 
 # Steps of building this project
-1.	Use OpenCV to collect the images for dataset.
-2.	Then label these images using LabelImg tool of python. 
+1.  Collecting images for Deep Learning using webcam and OpenCV.
+2.	Then label these images for Sign Language Detection using LabelImg tool of Python. 
 3.  Further split these images into training and testing datasets.
-4.	The next step is to create a model for training and setting  up all the paths.
+4.	The next step is to create a model for training and setting up all the paths.
 5.	Then create label map for each image, where each label will contain a unique id.
-6.	Create TF records using Tensorflow API.
-7.	Download Tensorflow pretrained models from tensorflow models.
-8.	Copy the model configuration to training folder.
-9.	Update this configuration file for transfer learning.
-10.	Train the model by executing the code in terminal.
-11.	Final step is to load the model from checkpoints.
-12.	Tada! now the model will be able to detect the gestures in real time and convert them to equivalent text.
+6.	Setup Tensorflow Object Detection pipeline configuration.
+7.	Create TF records using Tensorflow API.
+8.	Download Tensorflow pretrained models from Tensorflow models.
+9.	Copy the model configuration to training folder.
+10.	Update this configuration file for Transfer Learning.
+11.	Use Transfer Learning to train the Deep Learning model
+12.	Train the model by executing the code in terminal.
+13.	Final step is to load the model from checkpoints.
+14.	Tada! now the model will be able to detect the gestures in real time using OpenCV and convert them to equivalent text.
 
 
 ![image](https://github.com/Deepali-14/Hand_Gesture_To_Text_Converter-DivyaAnuvadak/assets/90978030/401953b2-e98e-4b74-b43e-310835bdebd0)
@@ -69,14 +78,9 @@ why not to extend it to specially-abled!”
 
 
 # References
-1. https://docs.streamlit.io/
+1. LabelImg - https://github.com/heartexlabs/labelImg
+2. TensorFlow Object Detection API Installation - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+3. Tensorflow Models - https://github.com/tensorflow/models
 
-2. "A Concise Introduction to Software Engineering" by Pankaj Jalota
-
-3. Pressman Roger S., "Software Engineering - A Practitioner’s Approach" Fifth Edition, McGraw-Hill Publication, 2000
-
-4. IEEE STD 830-1998, IEEE Recommended Practice for Software Requirement Specifications
-
-5. https://ieeexplore.ieee.org/document/720574
 
 
